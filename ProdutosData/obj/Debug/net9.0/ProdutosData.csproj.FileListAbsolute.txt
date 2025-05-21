@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\bin\Debug\net9.0\ProdutosData.deps.json
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\bin\Debug\net9.0\ProdutosData.runtimeconfig.json
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\bin\Debug\net9.0\ProdutosData.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\bin\Debug\net9.0\ProdutosData.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\bin\Debug\net9.0\ProdutosModel.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\bin\Debug\net9.0\ProdutosModel.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.AssemblyInfo.cs
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\Produtos.CA2BC35B.Up2Date
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\refint\ProdutosData.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.genruntimeconfig.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ref\ProdutosData.dll

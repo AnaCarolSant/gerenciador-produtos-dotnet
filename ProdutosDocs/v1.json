@@ -1,0 +1,166 @@
+{
+"openapi": "3.0.1",
+"info": {
+"title": "ProdutosApi | v1",
+"version": "1.0.0"
+},
+"servers": [
+{
+"url": "http://localhost:5189"
+}
+],
+"paths": {
+"/api/Produtos": {
+"get": {
+"tags": [
+"Produtos"
+],
+"responses": {
+"200": {
+"description": "OK"
+}
+}
+},
+"post": {
+"tags": [
+"Produtos"
+],
+"requestBody": {
+"content": {
+"application/json": {
+"schema": {
+"$ref": "#/components/schemas/ProdutoModel"
+}
+},
+"text/json": {
+"schema": {
+"$ref": "#/components/schemas/ProdutoModel"
+}
+},
+"application/*+json": {
+"schema": {
+"$ref": "#/components/schemas/ProdutoModel"
+}
+}
+},
+"required": true
+},
+"responses": {
+"200": {
+"description": "OK"
+}
+}
+}
+},
+"/api/Produtos/{id}": {
+"get": {
+"tags": [
+"Produtos"
+],
+"parameters": [
+{
+"name": "id",
+"in": "path",
+"required": true,
+"schema": {
+"type": "integer",
+"format": "int32"
+}
+}
+],
+"responses": {
+"200": {
+"description": "OK"
+}
+}
+},
+"put": {
+"tags": [
+"Produtos"
+],
+"parameters": [
+{
+"name": "id",
+"in": "path",
+"required": true,
+"schema": {
+"type": "integer",
+"format": "int32"
+}
+}
+],
+"requestBody": {
+"content": {
+"application/json": {
+"schema": {
+"$ref": "#/components/schemas/ProdutoModel"
+}
+},
+"text/json": {
+"schema": {
+"$ref": "#/components/schemas/ProdutoModel"
+}
+},
+"application/*+json": {
+"schema": {
+"$ref": "#/components/schemas/ProdutoModel"
+}
+}
+},
+"required": true
+},
+"responses": {
+"200": {
+"description": "OK"
+}
+}
+},
+"delete": {
+"tags": [
+"Produtos"
+],
+"parameters": [
+{
+"name": "id",
+"in": "path",
+"required": true,
+"schema": {
+"type": "integer",
+"format": "int32"
+}
+}
+],
+"responses": {
+"200": {
+"description": "OK"
+}
+}
+}
+}
+},
+"components": {
+"schemas": {
+"ProdutoModel": {
+"type": "object",
+"properties": {
+"id": {
+"type": "integer",
+"format": "int32"
+},
+"nome": {
+"type": "string"
+},
+"preco": {
+"type": "number",
+"format": "double"
+}
+}
+}
+}
+},
+"tags": [
+{
+"name": "Produtos"
+}
+]
+}

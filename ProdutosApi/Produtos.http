@@ -1,0 +1,32 @@
+@baseUrl = http://localhost:5189
+
+### 🟢 GET - Listar todos os produtos
+GET {{baseUrl}}/api/produtos
+Accept: application/json
+
+### 🔵 POST - Criar um novo produto
+POST {{baseUrl}}/api/produtos
+Content-Type: application/json
+
+{
+  "nome": "Boneca Barbie Collector",
+  "preco": 99.90
+}
+
+### 🟡 GET - Obter produto por ID
+GET {{baseUrl}}/api/produtos/1
+Accept: application/json
+
+### 🟠 PUT - Atualizar produto por ID
+PUT {{baseUrl}}/api/produtos/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "nome": "Produto Atualizado",
+  "preco": 120.00
+}
+
+### 🔴 DELETE - Remover produto por ID
+DELETE {{baseUrl}}/api/produtos/1
+Accept: application/json

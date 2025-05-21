@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosBusiness.deps.json
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosBusiness.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosBusiness.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosData.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosModel.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosModel.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\bin\Debug\net9.0\ProdutosData.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.AssemblyInfo.cs
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\Produtos.3945AA79.Up2Date
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\refint\ProdutosBusiness.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.pdb
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ref\ProdutosBusiness.dll
