@@ -61,3 +61,4 @@ C:\Users\user\Desktop\CP-.NET\webapi\ProdutosApi\obj\Debug\net9.0\refint\Produto
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosApi\obj\Debug\net9.0\ProdutosApi.pdb
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosApi\obj\Debug\net9.0\ProdutosApi.genruntimeconfig.cache
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosApi\obj\Debug\net9.0\ref\ProdutosApi.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosApi\obj\Debug\net9.0\ProdutosApi.sourcelink.json

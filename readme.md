@@ -21,9 +21,9 @@ git clone <url-do-repositorio>
 cd <pasta-do-projeto>
 ```
 
-### 2. Configure a string de conexão do Oracle
+### 2. Configure a string de conexão com o Oracle
 
-No arquivo `.env.sample`, preencha as informações de acesso ao seu banco Oracle, por exemplo:
+No arquivo `.env.sample`, preencha as informações de acesso ao seu banco de dados Oracle:
 
 ```
 ORACLE_USER=SEU_USUARIO
@@ -33,15 +33,25 @@ ORACLE_PORT=1521
 ORACLE_SERVICE=SEU_SERVICO
 ```
 
-Depois, **renomeie** o arquivo `.env.sample` para `.env` e ajuste o `appsettings.json` (ou `appsettings.Development.json`) para ler a string de conexão das variáveis de ambiente, se necessário:
+Depois de preenchido, **renomeie o arquivo `.env.sample` para `.env`**:
+
+```sh
+mv .env.sample .env
+```
+
+> ⚠️ **Importante:** A aplicação **não está configurada para ler variáveis do `.env` automaticamente**. Portanto, você **deve copiar os valores definidos no `.env`** e substituir diretamente no arquivo `appsettings.json` (ou `appsettings.Development.json`) na seção de `ConnectionStrings`.
+
+Exemplo:
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "User Id=${ORACLE_USER};Password=${ORACLE_PASSWORD};Data Source=${ORACLE_HOST}:${ORACLE_PORT}/${ORACLE_SERVICE}"
+  "DefaultConnection": "User Id=SEU_USUARIO;Password=SUA_SENHA;Data Source=SEU_SERVIDOR:1521/SEU_SERVICO"
 }
 ```
 
-> **Dica:** Se o projeto não estiver configurado para ler variáveis de ambiente automaticamente, copie os valores do `.env` e substitua diretamente no `appsettings.json`.
+> 💡 Você pode configurar a leitura via variáveis de ambiente utilizando a biblioteca `DotNetEnv`, se desejar automatizar esse processo no futuro.
+
+---
 
 ### 3. Restaure os pacotes NuGet
 
@@ -121,7 +131,8 @@ Accept: application/json
 
 ## Documentação Interativa
 
-Acesse o Swagger em:  
+Acesse o Swagger em:
+
 ```
 http://localhost:5189/swagger
 ```
@@ -132,5 +143,6 @@ http://localhost:5189/swagger
 
 - Certifique-se de que o Oracle está acessível e o usuário tem permissão para criar tabelas e inserir dados.
 - Caso rode em outra máquina, repita os passos acima e ajuste a string de conexão conforme o ambiente.
+- O uso de um `.env` serve como modelo de configuração, mas **a string precisa ser corretamente ajustada no arquivo de configuração da aplicação (`appsettings`)**.
 
 ---

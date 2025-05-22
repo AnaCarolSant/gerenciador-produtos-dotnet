@@ -15,3 +15,4 @@ C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosB
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\refint\ProdutosBusiness.dll
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.pdb
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ref\ProdutosBusiness.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosBusiness\obj\Debug\net9.0\ProdutosBusiness.sourcelink.json

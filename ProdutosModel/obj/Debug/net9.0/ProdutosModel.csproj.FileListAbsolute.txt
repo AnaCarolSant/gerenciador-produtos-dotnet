@@ -9,3 +9,4 @@ C:\Users\user\Desktop\CP-.NET\webapi\ProdutosModel\obj\Debug\net9.0\ProdutosMode
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosModel\obj\Debug\net9.0\refint\ProdutosModel.dll
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosModel\obj\Debug\net9.0\ProdutosModel.pdb
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosModel\obj\Debug\net9.0\ref\ProdutosModel.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosModel\obj\Debug\net9.0\ProdutosModel.sourcelink.json

@@ -9,7 +9,7 @@ POST {{baseUrl}}/api/produtos
 Content-Type: application/json
 
 {
-  "nome": "Boneca Barbie Collector",
+  "nome": "Boneca Barbie Mini",
   "preco": 99.90
 }
 

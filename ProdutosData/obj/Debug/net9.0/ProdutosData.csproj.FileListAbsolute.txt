@@ -15,3 +15,4 @@ C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\refint\Produt
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.pdb
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.genruntimeconfig.cache
 C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ref\ProdutosData.dll
+C:\Users\user\Desktop\CP-.NET\webapi\ProdutosData\obj\Debug\net9.0\ProdutosData.sourcelink.json
